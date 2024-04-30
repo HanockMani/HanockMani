@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hanock P Mani</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A Tech enthusiast and an computer scinece student looking to build a good career in IT feild!</h3>
 
 - 🔭 I’m currently pursuing **MCA at Rajagiri College of Social Sciences**
 
